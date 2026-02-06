@@ -27,9 +27,3 @@ I turn ideas into functional digital products using Python, Django, and React.
 -Database: PostgreSQL, MySQL, SQLite
 
 -Tools & Platforms: Git, Linux, VS Code, Docker
-
-
-
-            📈 Mindset
-
-I believe in clean architecture, continuous learning, and building systems that solve real-world problems.
