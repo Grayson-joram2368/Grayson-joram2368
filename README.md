@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Grayson Joram
+I’m a Full-Stack Developer building scalable, secure, and real-world web applications.
+I turn ideas into functional digital products using Python, Django, and React.
 
-<!--
-**Grayson-joram2368/Grayson-joram2368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I Do
+Build backend systems with Python & Django
+Create interactive frontends with React
+Design and structure clean, efficient databases
+Develop full-stack applications from concept to deployment
+Write clean, maintainable, and scalable code
 
-Here are some ideas to get you started:
+🛠 Tech Stack
+Backend: Python, Django, Django REST Framework
+Frontend: React, HTML, CSS, JavaScript
+Database: PostgreSQL, MySQL, SQLite
+Tools & Platforms: Git, Linux, VS Code, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📈 Mindset
+I believe in clean architecture, continuous learning, and building systems that solve real-world problems.
