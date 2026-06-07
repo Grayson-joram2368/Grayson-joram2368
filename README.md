@@ -1,4 +1,4 @@
-Hi, I'm Grayson Joram
+Hi, I'm Grayson Joram Ngowi
 
 I’m a Full-Stack Developer building real-world web applications with Python, Django, and React.
 
